@@ -1,0 +1,1 @@
+export const SET_PHRASE = 'filters/set_phrase';
